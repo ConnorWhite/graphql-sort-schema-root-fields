@@ -1,5 +1,3 @@
-const { GraphQLSchema, GraphQLObjectType, isObjectType } = require('graphql');
-
 const { GraphQLSchema, GraphQLObjectType } = require('graphql');
 
 function sortFields(fields) {

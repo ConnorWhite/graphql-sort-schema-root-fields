@@ -1,0 +1,19 @@
+{
+  "name": "graphql-sort-schema-root-fields",
+  "version": "1.0.0",
+  "description": "Sort GraphQL query, mutation, and subscription fields.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConnorWhite/graphql-sort-schema-root-fields.git"
+  },
+  "author": "Connor White",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConnorWhite/graphql-sort-schema-root-fields/issues"
+  },
+  "homepage": "https://github.com/ConnorWhite/graphql-sort-schema-root-fields#readme",
+  "dependencies": {
+    "graphql": "^14.5.3"
+  }
+}

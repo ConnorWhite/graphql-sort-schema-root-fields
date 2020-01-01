@@ -2,7 +2,7 @@ import { GraphQLSchema } from "graphql"
 
 declare const sortSchemaRootFields: {
   /**
-   * @param schema - scheam to sort
+   * @param schema - schema to sort
    * 
    */
   

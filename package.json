@@ -1,6 +1,6 @@
 {
   "name": "graphql-sort-schema-root-fields",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Sort GraphQL query, mutation, and subscription fields.",
   "main": "index.js",
   "repository": {
